@@ -16,9 +16,9 @@ email: experrimenti@proton.me
 instagram_username:  
 linkedin_username: 
 github_username: 
-# medium_username: lorem_ipsum
-# medium_url: lorem_ipsum.medium.com
-# gplus_username:  lorem_ipsum
+# medium_username: l
+# medium_url: 
+# gplus_username:  
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
 
