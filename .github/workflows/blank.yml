@@ -1,0 +1,24 @@
+# Site settings
+title: Experrimenti 
+description: MaJiK Story Tyme
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Yaldabaoth 
+user_description: - Creation of the Cosmos: Yaldabaoth steals divine power from Sophia and uses it to fashion the material world, modeling it imperfectly on the Pleroma. He generates archons (rulers, often 365 or 12 chief ones corresponding to heavens/zodiac) to assist him.
+- Creation of Humanity: The archons form Adam's body from matter, but it remains lifeless until Yaldabaoth unwittingly breathes in the stolen divine spark (from Sophia), animating humanity with a piece of higher light. This explains the Gnostic view of humans as containing a trapped divine essence amid a corrupt body.
+- Tyrannical Control: He and his archons enforce fate, ignorance, and suffering to keep the divine sparks imprisoned. The Garden of Eden story is inverted: Yaldabaoth forbids the Tree of Knowledge to prevent awakening; the serpent (often an agent of Sophia or higher powers) brings liberating gnosis.
+
+user_title: Software Engineer
+email: experrimenti@proton.me
+# twitter_username: 
+instagram_username:  
+linkedin_username: 
+github_username: 
+# medium_username: lorem_ipsum
+# medium_url: lorem_ipsum.medium.com
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
+
